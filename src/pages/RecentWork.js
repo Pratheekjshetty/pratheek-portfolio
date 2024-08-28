@@ -75,11 +75,11 @@ function RecentWork() {
     <>
       {/* blank space starts here -> bcs of relative and absolute */}
       <div>
-        <div className="w-full sm:h-[650px] h-[1380px] bg-[#FFFFFF]"></div>
+        <div className="w-full sm:h-[610px] h-[1380px] bg-[#FFFFFF]"></div>
       </div>
       {/* blank space ends here -> bcs of relative and absolute */}
       <div className="Headers flex flex-col justify-center items-center gap-3 mt-[35px] md:mt-[-35px]">
-        <div className="title font-eurostile sm:text-[32px] text-[30px] font-extrabold text-center mt-5 mx-10 sm:mx-0 sm:w-[600px">
+        <div className="title font-eurostile sm:text-[32px] text-[30px] font-extrabold text-center mx-10 sm:mx-0 sm:w-[600px]">
           My Portfolio Highlights
         </div>
         <div className="subtitle font-serif text-[20px] w-[300px] sm:w-[600px] text-center">

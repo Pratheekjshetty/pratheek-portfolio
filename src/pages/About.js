@@ -30,7 +30,7 @@ function About() {
             </div>
           </div>
           {/* 1st absolute box starts here */}
-          <div className="absolute sm:w-[45%] lg:w-[35%] w-[80%] sm:top-[1700px] h-[640px] left-[10%] top-[2125px] sm:left-[4%] lg:left-[14%] bg-[#ffffff] flex flex-col gap-6 border rounded-2xl justify-center items-center text-[#141c3a] text-center hover:shadow-2xl ">
+          <div className="absolute sm:w-[45%] lg:w-[35%] w-[80%] sm:top-[1700px] h-[640px] left-[10%] top-[1600px] sm:left-[4%] lg:left-[14%] bg-[#ffffff] flex flex-col gap-6 border rounded-2xl justify-center items-center text-[#141c3a] text-center hover:shadow-2xl ">
             <div className="code w-[82px] mt-[-30px] sm:mt-5">
               <img className="w-[72px]" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt9ePgveMjN5Z9IdGaoO-i_yfE3-ASN7QATU1_PSuqK5C6VM0m" alt="code"/>
             </div>
@@ -62,7 +62,7 @@ function About() {
           {/* 1st absolute box ends here */}
 
           {/* 2nd absolute box starts here */}
-          <div className="absolute sm:w-[45%] lg:w-[35%] w-[80%] sm:top-[1700px] h-[640px] right-[10%] top-[2125px] sm:right-[4%] lg:right-[14%] bg-[#ffffff] flex flex-col gap-6 border rounded-2xl justify-center items-center text-[#141c3a] text-center hover:shadow-2xl">
+          <div className="absolute sm:w-[45%] lg:w-[35%] w-[80%] sm:top-[1700px] h-[640px] right-[10%] top-[2250px] sm:right-[4%] lg:right-[14%] bg-[#ffffff] flex flex-col gap-6 border rounded-2xl justify-center items-center text-[#141c3a] text-center hover:shadow-2xl">
             <div className="code w-[82px] mt-[-30px] sm:mt-5">
               <img className="w-[72px]" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt9ePgveMjN5Z9IdGaoO-i_yfE3-ASN7QATU1_PSuqK5C6VM0m" alt="code"/>
             </div>
@@ -106,7 +106,7 @@ function About() {
         </div>
 
         {/* absolute link to my page starts here */}
-        <div className="absolute sm:w-[95%] md:w-[60%] md:left-[20%] sm:left-[2.5%] w-[90%] sm:px-10 mb-10 bg-[#6E07F3] h-[100px] sm:h-[90px] sm:top-[2330px] top-[2749px] text-white text-center left-[5%] font-mono border rounded-xl hover:shadow-2xl text-sm sm:text-sm flex items-center">
+        <div className="absolute sm:w-[95%] md:w-[60%] md:left-[20%] sm:left-[2.5%] w-[90%] sm:px-10 mb-10 bg-[#6E07F3] h-[100px] sm:h-[90px] sm:top-[2330px] top-[2850px] text-white text-center left-[5%] font-mono border rounded-xl hover:shadow-2xl text-sm sm:text-sm flex items-center">
           <h1 className="mx-3 text-center">
             Want to learn more? Connect with me on &nbsp;
             <a className="text-[#ffffff] underline" href="https://www.linkedin.com/in/pratheek-j-shetty-815295226/" target="_blank" rel="noopener noreferrer">
