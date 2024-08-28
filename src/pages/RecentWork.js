@@ -182,7 +182,7 @@ function RecentWork() {
                     className="border-[1px] border-white hover:bg-black hover:white hover:text-white rounded-3xl sm:p-4 sm:px-4 p-2 px-3 text-sm sm:text-l flex items-center text-center">
                     Live demo
                   </a>
-                  <a href="https://github.com/Pratheekjshetty/portfolio.git" target="_blank" rel="noopener noreferrer"
+                  <a href="https://github.com/Pratheekjshetty/pratheek-portfolio.git" target="_blank" rel="noopener noreferrer"
                     className="border-[1px] border-white hover:bg-white hover:text-black rounded-2xl md:p-3 md:px-3 p-1 px-1.5 text-l sm:text-sm flex items-center text-center">
                     <GitHubIcon className="icon" />
                   </a>
