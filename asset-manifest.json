@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pratheek-portfolio/static/css/main.a953eefb.css",
+    "main.js": "/pratheek-portfolio/static/js/main.0a0011c6.js",
+    "static/js/453.47bb5e16.chunk.js": "/pratheek-portfolio/static/js/453.47bb5e16.chunk.js",
+    "static/media/tourismapp.png": "/pratheek-portfolio/static/media/tourismapp.f20416d8bd5ef662b3cd.png",
+    "static/media/car_rental.png": "/pratheek-portfolio/static/media/car_rental.0d4189d5d073590704bd.png",
+    "static/media/food_delivery.png": "/pratheek-portfolio/static/media/food_delivery.674e8e023c97404c9b5b.png",
+    "static/media/calculator.png": "/pratheek-portfolio/static/media/calculator.5636287007ec8902615b.png",
+    "static/media/portfolio.png": "/pratheek-portfolio/static/media/portfolio.b698c28d716220d4284f.png",
+    "static/media/pratheek1.png": "/pratheek-portfolio/static/media/pratheek1.58897a569ec32b34e8c7.png",
+    "static/media/Resume.pdf": "/pratheek-portfolio/static/media/Resume.5a6d157ad41b307aba40.pdf",
+    "static/media/counter.png": "/pratheek-portfolio/static/media/counter.9002e63fcf741355ce25.png",
+    "static/media/hero-devices-sj.svg": "/pratheek-portfolio/static/media/hero-devices-sj.09431a49b158b1905523f18d9abe3290.svg",
+    "static/media/Blue_logo1.png": "/pratheek-portfolio/static/media/Blue_logo1.be881ca8588f96764940.png",
+    "index.html": "/pratheek-portfolio/index.html",
+    "main.a953eefb.css.map": "/pratheek-portfolio/static/css/main.a953eefb.css.map",
+    "main.0a0011c6.js.map": "/pratheek-portfolio/static/js/main.0a0011c6.js.map",
+    "453.47bb5e16.chunk.js.map": "/pratheek-portfolio/static/js/453.47bb5e16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a953eefb.css",
+    "static/js/main.0a0011c6.js"
+  ]
+}
