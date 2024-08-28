@@ -23,9 +23,6 @@ export default function Contact() {
 
   const sendEmail = (e) => {
     e.preventDefault();
-    console.log("Service ID:", process.env.REACT_APP_SERVICE_ID);
-    console.log("Template ID:", process.env.REACT_APP_TEMPLATE_ID);
-    console.log("Public Key:", process.env.REACT_APP_PUBLIC_KEY);
     if (!name || !email || !message) {
       toast.error("Fill out all the fields !!");
       return; 
