@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pratheek-portfolio/static/css/main.a953eefb.css",
-    "main.js": "/pratheek-portfolio/static/js/main.c4bff68b.js",
+    "main.css": "/pratheek-portfolio/static/css/main.cd812895.css",
+    "main.js": "/pratheek-portfolio/static/js/main.822388ad.js",
     "static/js/453.47bb5e16.chunk.js": "/pratheek-portfolio/static/js/453.47bb5e16.chunk.js",
     "static/media/tourismapp.png": "/pratheek-portfolio/static/media/tourismapp.f20416d8bd5ef662b3cd.png",
     "static/media/car_rental.png": "/pratheek-portfolio/static/media/car_rental.0d4189d5d073590704bd.png",
@@ -14,12 +14,12 @@
     "static/media/hero-devices-sj.svg": "/pratheek-portfolio/static/media/hero-devices-sj.09431a49b158b1905523f18d9abe3290.svg",
     "static/media/Blue_logo1.png": "/pratheek-portfolio/static/media/Blue_logo1.be881ca8588f96764940.png",
     "index.html": "/pratheek-portfolio/index.html",
-    "main.a953eefb.css.map": "/pratheek-portfolio/static/css/main.a953eefb.css.map",
-    "main.c4bff68b.js.map": "/pratheek-portfolio/static/js/main.c4bff68b.js.map",
+    "main.cd812895.css.map": "/pratheek-portfolio/static/css/main.cd812895.css.map",
+    "main.822388ad.js.map": "/pratheek-portfolio/static/js/main.822388ad.js.map",
     "453.47bb5e16.chunk.js.map": "/pratheek-portfolio/static/js/453.47bb5e16.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a953eefb.css",
-    "static/js/main.c4bff68b.js"
+    "static/css/main.cd812895.css",
+    "static/js/main.822388ad.js"
   ]
 }
