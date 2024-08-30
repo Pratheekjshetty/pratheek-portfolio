@@ -19,7 +19,7 @@ function Footer() {
          Continuously learning, growing, and improving<br /> every single day.
         </div>
         <div className="Buttons-link flex gap-3">
-          <a href="https://soorajjain.github.io/portfolio_Soorajjain" target="_blank" rel="noopener noreferrer"
+          <a href="https://pratheekjshetty.github.io/pratheek-portfolio/" target="_blank" rel="noopener noreferrer"
             className="w-[47px] h-[47px] border border-white rounded-[50%] hover:text-[rgb(110,7,243)] hover:bg-white flex justify-center items-center">
             <LanguageIcon />
           </a>
